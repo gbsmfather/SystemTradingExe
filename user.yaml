@@ -1,0 +1,32 @@
+# 예수금(2111)창에서 계좌번호 중앙에서 비밀번호 칸 중앙까지 픽셀 가로 거리
+MOVETO_X_UNIT_ORIG: 280
+
+# 미니주문(2101)창에서 지움버튼 중앙에서 지정가 선택 칸 중앙까지 픽셀 세로 거리
+MOVETO_Y_UNIT_ORIG: 160
+
+# 이미지 검색시 매칭 유사도
+CONFIDENCE: 0.75
+
+# 주간거래 여부 (enable / disable)
+AVATAR_DAYTIME: 'disable'
+
+# 계좌수
+MAX_ACCOUNT_COUNT: 6
+
+# 무한매수 거래 여부 (enable / disable)
+MUMAE: 'disable'
+
+# 구글 시트 URL
+SPREADSHEET_URL: 'https://docs.google.com/spreadsheets/d/$$$$$$$$$$$$$$-$$$-$$$$$$$$$$$$$$$$$/edit#gid=$$$$$$$$$4'
+
+# 구글 키 파일 이름'
+SPREADSHEET_KEY_FILE_NAME: 'my-avatar-3333-########ab.json'
+
+# 텔레그램 토큰
+TELEGRAM_TOKEN: '112223333:####$$$$%%%^^^@@@@&&&***##'
+
+# 텔레그램 챗ID
+TELEGRAM_CHATID: 1234456789
+
+# 키움 간편로그인 암호
+LOGIN_PASSWD: '********'
