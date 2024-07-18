@@ -1,0 +1,13 @@
+/my-avatar-375301-faa3b4067bab.json
+/pip_modules
+/screenshot.png
+/__pycache__
+/log.log
+/log.log.*
+/user.py
+/.idea
+/build
+/dist
+*.spec
+*.yaml
+*.zip
